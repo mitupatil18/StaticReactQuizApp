@@ -1,0 +1,23 @@
+.selection{
+  padding: 5%;
+  margin: 2%;
+  background-color:whitesmoke;
+  border-radius: 10px;
+  font-weight: 400;
+  font-size: 20px;
+  color: white;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  backdrop-filter: blur(10px);
+}
+.box{
+  width: 70%; /* Adjust the width as needed */
+  margin: auto; /* Center the box horizontally */
+  padding: 20px; /* Add padding for better appearance */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: transparent;
+  align-items: center;
+  height: 100vh; 
+}
